@@ -1,5 +1,7 @@
+```
 The Starbucks coffee shop located at the College Park Shopping Center (7336 Baltimore Avenue, College Park, MD 20740)  is the most visited coffee shop by UMD faculties and students. It is the nearest and most convenient coffee shop and thus, owning the problem of long queues and waiting times during peak hours in school days. As a coffee shop that hopes to earn more money, how long does it take to serve a customer? How many customers may leave due to long waiting times? And how to improve efficiency in order to serve more customers? These questions are left for us to solve.
 
 According to our own experience and investigation, this coffee shop has rushed almost all the time during the semester. The shop has 2 service windows, 1 queue for product ordering, 1 queue for food items and 1 queue for beverage items. Since spring semester is from March to May, the passenger flow volume, the quantity, and frequency of customer demand are likely to culminate. 
 
 In this project, we plan to use the simulation software Arenation to build a model of the Starbucks at College Park Shopping Center. By simulating customer arrival, customer waiting time to place orders and customer waiting time to get food and beverage, the study is going to target the longest queue on average and figure out how to reduce the average total time in the system. Besides, the study wants to figure out whether resources, including labor and raw material, are allocated efficiently to better serve customers.
+```
